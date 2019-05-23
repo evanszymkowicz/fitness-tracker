@@ -2,11 +2,10 @@
 
 Built following along with a mongoDB webinar
 
-Tech used:
+Uses:
 Node v 8.15
 Body Parser
 Express
 Mongoose
 Dotenv
 Nodemon
-# fitness-tracker
