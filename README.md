@@ -2,10 +2,9 @@
 
 Built following along with a mongoDB webinar
 
-Uses:
-Node v 8.15
-Body Parser
-Express
-Mongoose
-Dotenv
-Nodemon
+Uses: <br/>
+Node 8.15 <br/>
+CRA <br/>
+MongoDB Atlas cluster <br/>
+
+## Startup instructions
